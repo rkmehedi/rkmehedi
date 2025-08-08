@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Mehedi Hassan 👋</h1>
+<h1 align="center">Hi, I'm Eng. MEHEDI HASSAH </h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack & WordPress Expert</h3>
 
 ---
